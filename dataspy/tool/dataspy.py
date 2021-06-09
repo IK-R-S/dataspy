@@ -2,7 +2,6 @@
 # Idealizado e construido por K.r.s
 # Github: https://github.com/IK-R-S
 # protegido pela licença GNU GPLv3
-# Ferramenta estritamente proíbida para comercialização
 
 from metadata_image import *
 
