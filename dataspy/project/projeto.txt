@@ -1,0 +1,11 @@
+ Dataspy é um projeto de código aberto que visa a construção 
+de uma ferramenta Forense de alto nível. 
+O projeto tem como base a linguagem Python e reúne diferentes 
+bibliotecas e módulos de análise multimídia.
+
+ A ideia da ferramenta nasceu quando o idealizador, K.R.S e sua equipe de CTF
+precisaram de ferramentas Forense para realizar a análise de alguns arquivos
+de Desafios, entretanto não possuiam experiência nem conhecimento sobre as
+"tools" existentes, foi quando K.R.S decidiu criar uma solução nova para o assunto: 
+
+O Dataspy
