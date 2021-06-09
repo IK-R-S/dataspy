@@ -13,3 +13,11 @@ Instale o programa manualmente da seguinte forma:
 - *Instale o vlc media player para o funcionamento da análise de áudios
 
 Ou execute o arquivo ***install.py*** (O vlc ainda será necessário!)
+
+## Contribuição
+Aos desenvolvedores que queiram contribuir:
+- Otimização de código
+- Possível redução do código **metadata_image.py**
+
+Contribuições financeiras ou insights:
+- Entrar em contato no github do Criador IK-R-S
