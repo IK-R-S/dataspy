@@ -13,7 +13,7 @@ Instale o programa manualmente da seguinte forma:
 - pip3 install exif
 - *Instale o vlc media player para o funcionamento da análise de áudios
 
-Ou execute o arquivo ***install.py*** (O vlc ainda será necessário!)
+Ou execute o arquivo com ***python3 install.py*** (O vlc ainda será necessário!)
 
 ## Contribuição
 Aos desenvolvedores que queiram contribuir:
