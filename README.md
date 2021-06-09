@@ -6,6 +6,7 @@ Projeto voltado à análise de metadados em arquivos multimídia de Imagens e Á
 Para utilizar o Dataspy é preciso ter um ambiente linux estável.
 Instale o programa manualmente da seguinte forma:
 
+- *Instale o python3 e o pip3
 - pip3 install tinytag
 - pip3 install python-vlc
 - pip3 install Pillow
